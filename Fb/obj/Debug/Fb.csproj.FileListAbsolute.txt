@@ -1,0 +1,7 @@
+C:\Users\Andrey\Desktop\C#\Fb\Fb\bin\Debug\Fb.exe.config
+C:\Users\Andrey\Desktop\C#\Fb\Fb\bin\Debug\Fb.exe
+C:\Users\Andrey\Desktop\C#\Fb\Fb\bin\Debug\Fb.pdb
+C:\Users\Andrey\Desktop\C#\Fb\Fb\obj\Debug\Fb.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Desktop\C#\Fb\Fb\obj\Debug\Fb.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\C#\Fb\Fb\obj\Debug\Fb.exe
+C:\Users\Andrey\Desktop\C#\Fb\Fb\obj\Debug\Fb.pdb
